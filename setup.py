@@ -38,4 +38,4 @@ if os.name == "posix":
             print "[*] Install subversion, python-pexpect, python-beautifulsoup, python-crypto, python-openssl, python-pefile manually for all of SET dependancies."
             sys.exit()
 else:
-    print "[!] Sorry this installer is not designed for any other system other than posix (*nix). Please install the pyhton depends manually."
+    print "[!] Sorry this installer is not designed for any other system other than posix (*nix). Please install the python depends manually."
